@@ -1,10 +1,9 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<!DOCTYPE html>
+
 <html>
 <body>
-
 <h1>All Employees</h1>
-<br><br>
+<br>
 
 <table>
     <tr>
@@ -21,8 +20,8 @@
             <td>${emp.department}</td>
             <td>${emp.salary}</td>
         </tr>
-
     </c:forEach>
 </table>
+
 </body>
 </html>

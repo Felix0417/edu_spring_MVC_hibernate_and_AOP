@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="edu_spring_MVC_hibernate_and_AOP" options="--add-modules java.base" />
+      <module name="edu_spring_MVC_hibernate_and_AOP" options="" />
     </option>
   </component>
 </project>
